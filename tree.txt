@@ -1,0 +1,8 @@
+YOLO/
+ ├─ videos/
+ │   ├─ easy.mp4
+ │   └─ easy1.mp4
+ ├─ data/
+ │   └─ coco.txt
+ ├─ main_yolo.py
+ └─ requirements.txt
